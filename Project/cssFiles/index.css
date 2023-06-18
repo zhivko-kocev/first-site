@@ -56,7 +56,7 @@ body{
 .parallax.one{
     display: flex;
     flex-direction: column;
-    background-image: url("/png_pictures/tim.jpg");
+    background-image: url("../Project/png_pictures/tim.jpg");
     text-align: center;
     height: 1536px;
     gap: 20px;
